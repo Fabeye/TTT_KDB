@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Papers
+    filters:
+      and:
+        - file.inFolder("Papers")
+    order:
+      - file.name
+      - year
+      - venue
+      - status
+      - iteration

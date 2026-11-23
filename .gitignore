@@ -1,0 +1,13 @@
+# Obsidian per-device state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/
+.trash/
+
+# Claudian: local sessions and settings (may hold env vars/secrets)
+.claudian/
+
+# OS junk
+.DS_Store
+Thumbs.db
